@@ -34,8 +34,10 @@ Install ffmpeg 4.4 via package manager of your choice.
 
 ## Run
 
-After configuring everything, run browser.py  
-Close its browser window to exit.
+After configuring everything, run browser.py if you are trying to stream HTML content or websites.
+If you are only streaming an application, edit then run stream.sh
+
+Close its browser window to exit browser.py
 
 ## License
 
