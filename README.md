@@ -34,7 +34,7 @@ Install ffmpeg 4.4 via package manager of your choice.
 
 ## Run
 
-After configuring everything, run browser.py
+After configuring everything, run browser.py  
 Close its browser window to exit.
 
 ## License
