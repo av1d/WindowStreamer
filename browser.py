@@ -6,6 +6,12 @@ import webview
 """
     WindowStreamer v1.0 - av1d
 
+    If you aren't using this custom browser then simply just
+    edit stream.sh instead and ignore this file entirely.
+
+    This browser is handy for streaming things like weather feeds on websites,
+    it's designed to be sizable and easy to attach to the streaming process.
+
     Requires ffmpeg 4.4 or greater and pywebview.
     (python3 -m pip install pywebview)
 
